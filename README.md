@@ -1,6 +1,6 @@
 ## About The Project
 
-This is a React project in which React, Redux toolkit, Firebase, and TMDBI are used.
+This is a React project in which React, Redux toolkit, Firebase, and TMDB are used.
 
 ## Sample Photo
 
