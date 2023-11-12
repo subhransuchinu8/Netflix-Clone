@@ -1,3 +1,12 @@
+## About The Project
+
+This is a React project in which React, Redux toolkit, Firebase, and TMDBI are used.
+
+## Sample Photo
+
+![image](https://github.com/subhransuchinu8/Netflix-Clone/assets/119065077/309912ed-3cdd-48ae-9fa4-f38b80b15f2f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
